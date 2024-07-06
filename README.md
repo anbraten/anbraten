@@ -1,9 +1,5 @@
 ### Hi there 👋🏼
 
-My name is Anton. I'm passionate about open-source, i18n, JavaScript ecosystem, and various Web frameworks.
-
-[![GitHub followers](https://img.shields.io/github/followers/anbraten?label=Follow&style=social)](https://github.com/anbraten?tab=followers)
-
 #### 🔧 Technologies & Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&cacheSeconds=10000)
