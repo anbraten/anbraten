@@ -32,7 +32,7 @@ I love contributing to open-source projects. Here are some of the projects I am 
 - [Kiel Live](https://github.com/kiel-live/kiel-live)
 - [Gringotts](https://github.com/geprog/gringotts)
 - [gitea.js](https://github.com/anbraten/gitea-js)
-- [... other projects I've touched](https://github.com/anbraten?tab=repositories)
+- [... other projects I've touched](https://github.com/anbraten?tab=repositories&q=&type=source)
 - [... recent commits I've made](https://github.com/search?q=author%3Aanbraten&type=commits&s=committer-date&o=desc)
 
 #### 📊 GitHub Stats
