@@ -1,5 +1,24 @@
 ### Hi there 👋🏼
 
+I'm a software engineer from Germany, tinkerer, and open-source enthusiast. I love to build things and solve problems.
+
+#### 💻 Open Source
+
+I love contributing to open-source projects. 
+
+Here are some of the projects I am proud of being a maintainer or contributor:
+
+- [Woodpecker CI](https://github.com/woodpecker-ci/woodpecker)
+- [Kiel Live](https://github.com/kiel-live/kiel-live)
+- [Gringotts](https://github.com/geprog/gringotts)
+- [gitea.js](https://github.com/anbraten/gitea-js)
+- [... other projects I've touched](https://github.com/anbraten?tab=repositories&q=&type=source)
+- [... recent commits I've made](https://github.com/search?q=author%3Aanbraten&type=commits&s=committer-date&o=desc)
+
+#### 📊 GitHub Stats
+
+[![Anbraten's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anbraten&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_answered&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
 #### 🔧 Technologies & Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&cacheSeconds=10000)
@@ -23,18 +42,3 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-181717?logo=terraform&cacheSeconds=10000)
 ![OpenTofu](https://img.shields.io/badge/-OpenTofu-181717?logo=opentofu&cacheSeconds=10000)
 ![Ansible](https://img.shields.io/badge/-Ansible-181717?logo=ansible&cacheSeconds=10000)
-
-#### 💻 Open Source
-
-I love contributing to open-source projects. Here are some of the projects I am proud of being a maintainer or contributor:
-
-- [Woodpecker CI](https://github.com/woodpecker-ci/woodpecker)
-- [Kiel Live](https://github.com/kiel-live/kiel-live)
-- [Gringotts](https://github.com/geprog/gringotts)
-- [gitea.js](https://github.com/anbraten/gitea-js)
-- [... other projects I've touched](https://github.com/anbraten?tab=repositories&q=&type=source)
-- [... recent commits I've made](https://github.com/search?q=author%3Aanbraten&type=commits&s=committer-date&o=desc)
-
-#### 📊 GitHub Stats
-
-[![Anbraten's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anbraten&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_answered&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
