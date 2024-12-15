@@ -4,8 +4,6 @@ I'm a software engineer from Germany, tinkerer, and open-source enthusiast. I lo
 
 #### 💻 Open Source
 
-I love contributing to open-source projects. 
-
 Here are some of the projects I am proud of being a maintainer or contributor:
 
 - [Woodpecker CI](https://github.com/woodpecker-ci/woodpecker)
